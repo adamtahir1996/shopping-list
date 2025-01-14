@@ -3,3 +3,5 @@
 - Onions
 - Cilantro
 - Salsa
+- Modelo
+- Lime
